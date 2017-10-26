@@ -2,6 +2,7 @@
   var document = window.document
   
   , grapher = function (selector, options) {
+    /* Return to the grapher  */
     return new grapher.prototype.init(selector, options);
   }
   
